@@ -1,0 +1,36 @@
+{
+  "name": "مذاكرة — مراجعة شاملة",
+  "short_name": "مذاكرة",
+  "description": "منصة المراجعة الذكية للطلاب",
+  "start_url": "/mozakara.html",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#1B3A6B",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%231B3A6B'/><circle cx='96' cy='96' r='70' fill='%2306b6d4' opacity='0.15'/><text x='96' y='118' font-family='Arial' font-size='90' font-weight='900' fill='white' text-anchor='middle'>م</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%231B3A6B'/><circle cx='256' cy='256' r='190' fill='%2306b6d4' opacity='0.15'/><text x='256' y='316' font-family='Arial' font-size='240' font-weight='900' fill='white' text-anchor='middle'>م</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["education"],
+  "shortcuts": [
+    {
+      "name": "ابدأ المذاكرة",
+      "short_name": "مذاكرة",
+      "url": "/mozakara.html#review",
+      "description": "ابدأ مراجعة الأسئلة مباشرةً"
+    }
+  ]
+}
